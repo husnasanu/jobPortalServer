@@ -1,0 +1,32 @@
+{
+  "allJobs": [
+    {
+      "id": "2f40",
+      "jTitle": "software Tester",
+      "jQualification": "BCA , BSC CS",
+      "jSal": "12000 - 18000",
+      "jResume": "abc@gmail.com"
+    },
+    {
+      "id": "9379",
+      "jTitle": " Academic Counsellor",
+      "jQualification": "Graduaion",
+      "jSal": "15000 - 19000",
+      "jResume": "sss@gmail.com"
+    },
+    {
+      "jTitle": "Sales Asociative",
+      "jQualification": "Graduation",
+      "jSal": "12000 - 18000",
+      "jResume": "ZZ@gmai.com",
+      "id": "5126"
+    },
+    {
+      "id": "16ef",
+      "jTitle": "Teacher",
+      "jQualification": "B.E.D",
+      "jSal": "24000-50000",
+      "jResume": "bee@gmail.com"
+    }
+  ]
+}
